@@ -93,4 +93,4 @@ async def detect_suspicious(ctx):
             suspicious_users.append(member)
     await ctx.send("Suspicious users detected and added to the list.")
 
-bot.run("MTExMzAyOTU2NTM1NTQwNTMzMw.GkPHYy.9JUpwl4eNjIxdKe-P5iLDAMleA3bFTkp3p-dUQ")
+bot.run("YOUR-BOT-TOKEN")
